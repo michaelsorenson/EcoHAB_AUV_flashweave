@@ -1,0 +1,9 @@
+.DS_Store
+.ipynb_checkpoints
+__pycache__
+
+data/input
+data/cleaned
+data/graph
+data/edgelist
+data/circlize

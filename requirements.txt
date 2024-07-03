@@ -1,0 +1,8 @@
+igraph>=0.11.3
+pandas>=2.1.4
+python-igraph>=0.11.3
+numpy>=1.26.4
+networkx>=3.3
+plotly>=5.18.0
+seaborn>=0.13.2
+scipy>=1.13.1
